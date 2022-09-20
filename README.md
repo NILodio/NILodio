@@ -4,7 +4,7 @@ I'm a software developer from Colombia. 🇨🇴
 
 I currently live in Medellin, Comlombia.
 
-Full Stack Developer Engineer👽️ passionate about sports and video games.🌎
+Full Stack Software Engineer👽️ passionate about sports and video games.🌎
 
  🚀
 
