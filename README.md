@@ -2,7 +2,7 @@
 
 I'm a software developer from Colombia. 🇨🇴
 
-I currently live in Medellin, Comlombia.
+I currently live in Toronto, Canada.
 
 Full Stack Software Engineer👽️ passionate about sports and video games.🌎
 
