@@ -14,7 +14,7 @@ Python , SQL, Pandas , Pyspark , Django, TensorFlow & Scikit-learn as skills to 
 
 You can find me on:
 
-* [My website: nilodio.com](https://nilodio.github.io/Web_Portafolio/)
+* [My website: nilodio.com](https://nilodio-portafolio.netlify.app/)
 * [GitHub as @NILodio (you are here)](https://github.com/NILodio/NILodio)
 * [LinkedIn](https://www.linkedin.com/in/danilo-diaz/)
 
